@@ -1,4 +1,4 @@
-# Bridgei2i's Automated Headline and Sentiment Generator
+Automated Headline and Sentiment Generator
 
 Automated identification, summarization, and entity-based sentiment analysis of mobile technology articles and tweets.
 
